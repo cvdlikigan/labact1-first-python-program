@@ -7,7 +7,7 @@ print("Weight in Pounds (lbs) = " + lbs)
 print("Weight converted to Kilogram (kg) = " + kg)
 
 print("==================================")
-
+#Length Conversion
 mi = 25
 km = mi*1.609
 km = round(km,2)
@@ -17,7 +17,7 @@ print("Length in Miles (mi) " + mi)
 print("Length in Kilometer (km) " + km)
 
 print("==================================")
-
+#Degree Conversion
 Fahrenheit = 50000
 Celsius = (5/9)*(Fahrenheit - 32)
 Fahrenheit = str(Fahrenheit)
@@ -27,7 +27,7 @@ print("Temperature to Fahrenheit (°F)" + Fahrenheit)
 print("Temperature to Celsius (°C)" + Celsius)
 
 print("==================================")
-
+#Student Ages
 print("2. Student Ages:")
 Student1 = "18"
 Student2 = "20"
@@ -54,7 +54,7 @@ print("Age of Student 10: " + Student10)
 print("The average age of the students is: " + average)
 
 print("==================================")
-
+#Fantasy Story
 character1 = "Hellion"
 character2 = "Arkin"
 character3 = "Zen"
